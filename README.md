@@ -1,5 +1,6 @@
 <h3 align="center">Welcome 👋</h3>
 <h4 align="center"> 🛠 Tech Stack 🛠 </h4>
+<!--
 <div aling="center">
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -9,7 +10,7 @@
   ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </div>
-
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
