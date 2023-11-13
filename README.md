@@ -1,28 +1,43 @@
-<h3 align="center">Welcome 👋</h3>
-<h4 align="center"> 🛠 Tech Stack 🛠 </h4>
-<!--
-<div aling="center">
-  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-  ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<h3 align="center">🍒 Welcome To My Wolrd 🍒</h3>
+<div align="center">
+  <a href="mailto:yuuung26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
--->
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+<h4 align="center"> 🅰 Language 🅰 </h4>
+	<div align="center">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+  	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  </div>
+
+<h4 align="center"> ⚙️ Framework ⚙️ </h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
+  <br/>
+</div>
+
+<h4 align="center"> 🤡 ETC. 🤡 </h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
+</div>
+
+<br />
+<br />
+<br />
 
 <div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunGyeongee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunGyeongee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
--->
