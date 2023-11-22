@@ -1,7 +1,7 @@
 <h3 align="center">🍒 Welcome To My Wolrd 🍒</h3>
 <div align="center">
   <a href="mailto:yuuung26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <a href="https://dev-yungyeong.notion.site/Resume-Rachel-Kim-1c0bd1c2768b4e3f8aaa431d142b35c9?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 </div>
 
 <h4 align="center"> 🅰 Language 🅰 </h4>
