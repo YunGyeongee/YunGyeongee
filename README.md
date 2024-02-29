@@ -15,6 +15,7 @@
 		<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
   		<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" />
 		<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+		<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
 	</div>
 
 <h4 align="center"> DevOps </h4>
